@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/design-task1/static/css/main.827e81bd.css",
+    "main.js": "/design-task1/static/js/main.b002e485.js",
+    "static/media/shopping-bag.png": "/design-task1/static/media/shopping-bag.970daf949d5d7a4b3f95.png",
+    "static/media/banner.JPG": "/design-task1/static/media/banner.b322e5f8d7516daae404.JPG",
+    "static/media/blogBg.jpg": "/design-task1/static/media/blogBg.f192d41e6f4265d717c0.jpg",
+    "index.html": "/design-task1/index.html",
+    "main.827e81bd.css.map": "/design-task1/static/css/main.827e81bd.css.map",
+    "main.b002e485.js.map": "/design-task1/static/js/main.b002e485.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827e81bd.css",
+    "static/js/main.b002e485.js"
+  ]
+}
